@@ -3,8 +3,7 @@ const urlsToCache = [
   './',
   './index.html',
   './manifest.json',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
+  './icons/Ac20014240f194f4ab3bfdb0c08e9a3a9w.png',
   './service-worker.js'
 ];
 
