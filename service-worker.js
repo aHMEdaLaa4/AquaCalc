@@ -1,4 +1,4 @@
-const CACHE_NAME = 'aquacalc-v1';
+const CACHE_NAME = 'aquacalc-v2';
 const urlsToCache = [
   './',
   './index.html',
